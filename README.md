@@ -4,7 +4,8 @@
 [![Read Me Synchronizer](https://img.shields.io/badge/-powered%20by%20read%20me%20synchronizer-brightgreen.svg)](https://github.com/GregTrevellick/ReadMeSynchronizer)
 <!-- Powered by https://github.com/GregTrevellick/ReadMeSynchronizer -->
 
-**[Subscribe](https://github.com/GregTrevellick/HelloWorldVstsExtension/subscription) to receive notificatons.**
+[Subscribe](https://github.com/GregTrevellick/HelloWorldVstsExtension/subscription) to receive notificatons.
+
 [![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/HelloWorldVstsExtension?branch=master)](https://bettercodehub.com/results/GregTrevellick/HelloWorldVstsExtension)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/5c49e26432e541c5861195ed4a425ac8)](https://www.codacy.com/project/gtrevellick/HelloWorldVstsExtension/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/HelloWorldVstsExtension&amp;utm_campaign=Badge_Grade_Dashboard)
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/HelloWorldVstsExtension/badge)](https://www.codefactor.io/repository/github/GregTrevellick/HelloWorldVstsExtension)
@@ -25,7 +26,7 @@
 [![Sonar&metric=vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=HelloWorldVstsExtension&metric=vulnerabilities)](https://sonarcloud.io/component_measures?id=HelloWorldVstsExtension&metric=vulnerabilities)
 [![Appveyor Build status](https://ci.appveyor.com/api/projects/status/ola9n1um34vha0x4?svg=true)](https://ci.appveyor.com/project/GregTrevellick/HelloWorldVstsExtension)
 [![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/HelloWorldVstsExtension.svg)](https://ci.appveyor.com/project/GregTrevellick/HelloWorldVstsExtension/build/tests)
-[![Azure Build Status](https://gregtrevellick.visualstudio.com/HelloWorldVstsExtension/_apis/build/status/HelloWorldVstsExtension)](https://gregtrevellick.visualstudio.com/HelloWorldVstsExtension/_build/latest?definitionId=)
+[![Azure Build Status](https://gregtrevellick.visualstudio.com/HelloWorldVstsExtension/_apis/build/status/HelloWorldVstsExtension)](https://gregtrevellick.visualstudio.com/HelloWorldVstsExtension/_build/latest?definitionId=35)
 [![Access Lint github](https://img.shields.io/badge/a11y-checked-brightgreen.svg)](https://www.accesslint.com)
 [![ImgBot](https://img.shields.io/badge/images-optimized-brightgreen.svg)](https://imgbot.net/)
 [![Renovate Bot github](https://img.shields.io/badge/renovatebot-checked-brightgreen.svg)](https://renovatebot.com/)
