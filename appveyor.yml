@@ -9,12 +9,12 @@ environment:
 install:
     - choco install "sonarscanner-msbuild-net46" -y
 before_build:
-    - cmd: nuget restore Src/HelloWorldVstsExtension.sln
+    - cmd: nuget restore Src/HelloWorldVstsExtension/HelloWorldVstsExtension.sln
     - choco install opencover.portable
     - choco install codecov
     - SonarScanner.MSBuild.exe begin /k:"HelloWorldVstsExtension" /d:"sonar.host.url=https://sonarqube.com" /d:"sonar.login=%my_encrypted_sonarqube_token%" /d:"sonar.organization=gregtrevellick-github"
 build:
-    project: Src/HelloWorldVstsExtension.sln
+    project: Src/HelloWorldVstsExtension/HelloWorldVstsExtension.sln
     verbosity: minimal
 after_build:
     - SonarScanner.MSBuild.exe end /d:"sonar.login=%my_encrypted_sonarqube_token%"
