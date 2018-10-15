@@ -8,9 +8,8 @@
 
 [![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/HelloWorldVstsExtension?branch=master)](https://bettercodehub.com/results/GregTrevellick/HelloWorldVstsExtension)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/5c49e26432e541c5861195ed4a425ac8)](https://www.codacy.com/project/gtrevellick/HelloWorldVstsExtension/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/HelloWorldVstsExtension&amp;utm_campaign=Badge_Grade_Dashboard)
-[![CodeBeat](https://codebeat.co/badges/undefined)](https://codebeat.co/projects/github-com-gregtrevellick-helloworldvstsextension-master)
+
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/HelloWorldVstsExtension/badge)](https://www.codefactor.io/repository/github/GregTrevellick/HelloWorldVstsExtension)
-[![DepShield](https://depshield.sonatype.org/badges/GregTrevellick/HelloWorldVstsExtension/depshield.svg)](https://depshield.github.io)
 [![InspecodeRocro Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/HelloWorldVstsExtension/report?token=skiS-zyN2GA-Jz95Dvmb6SYt3HLJApCn2vW6BoAhmdg)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/HelloWorldVstsExtension/branch/master/summary)
 [![LGTM Alerts](https://img.shields.io/lgtm/alerts/g/GregTrevellick/HelloWorldVstsExtension.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/HelloWorldVstsExtension/alerts/)
 [![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/GregTrevellick/HelloWorldVstsExtension.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/HelloWorldVstsExtension/context:javascript)
