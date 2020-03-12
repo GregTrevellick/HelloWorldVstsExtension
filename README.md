@@ -7,6 +7,9 @@
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/5c49e26432e541c5861195ed4a425ac8)](https://www.codacy.com/project/gtrevellick/HelloWorldVstsExtension/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/HelloWorldVstsExtension&amp;utm_campaign=Badge_Grade_Dashboard)
 <!-- no md -->
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/HelloWorldVstsExtension/badge)](https://www.codefactor.io/repository/github/GregTrevellick/HelloWorldVstsExtension)
+<!-- no md -->
+<!-- no md -->
+<!-- no md -->
 [![LGTM Alerts](https://img.shields.io/lgtm/alerts/g/GregTrevellick/HelloWorldVstsExtension.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/HelloWorldVstsExtension/alerts/)
 [![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/GregTrevellick/HelloWorldVstsExtension.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/HelloWorldVstsExtension/context:javascript)
 [![GitHub top language](https://img.shields.io/github/languages/top/GregTrevellick/HelloWorldVstsExtension.svg)](https://github.com/GregTrevellick/HelloWorldVstsExtension)
